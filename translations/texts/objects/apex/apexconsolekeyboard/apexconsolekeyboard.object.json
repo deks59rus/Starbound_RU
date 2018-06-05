@@ -12,7 +12,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Клавитура. Нужна для тапа.",
+      "Клавитура. Нужна для набора"
+    ],
     "Files": {
       "objects/apex/apexconsolekeyboard/apexconsolekeyboard.object": [
         "/novakidDescription"
@@ -20,7 +23,7 @@
     },
     "Texts": {
       "Eng": "A keyboard. Used for typin'.",
-      "Rus": ""
+      "Rus": "Клавитура. Нужна для клацанья кнопок."
     }
   },
   {
@@ -48,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Письмо Хилотли похоже на воду.  А буквенный поток Апексов похож на камень."
+    ],
     "Files": {
       "objects/apex/apexconsolekeyboard/apexconsolekeyboard.object": [
         "/hylotlDescription"
@@ -56,7 +61,7 @@
     },
     "Texts": {
       "Eng": "Hylotl lettering flows like water. Apex lettering flows like stone.",
-      "Rus": ""
+      "Rus": "Письмо Хилотли изящно словно вода.  Письмо Апексов же изящно как камень."
     }
   },
   {
