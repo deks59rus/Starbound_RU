@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A hand carved dining table."
+      "Eng": "A hand carved dining table.",
+      "Rus": "Резной обеденный стол ручной работы."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A nicely decorated dining table."
+      "Eng": "A nicely decorated dining table.",
+      "Rus": "Мило украшенный обеденный стол."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "After eating, it is common for knives and forks to be put to work adding new etchings to a table."
+      "Eng": "After eating, it is common for knives and forks to be put to work adding new etchings to a table.",
+      "Rus": "После еды на стол добавляют новые гравюры с помощью ножей и вилок."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An interestingly carved table."
+      "Eng": "An interestingly carved table.",
+      "Rus": ""
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Carved Table"
+      "Eng": "Carved Table",
+      "Rus": ""
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran bessst timess sspent at dinner table."
+      "Eng": "Floran bessst timess sspent at dinner table.",
+      "Rus": ""
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It looks like an entire family may have helped to decorate this table."
+      "Eng": "It looks like an entire family may have helped to decorate this table.",
+      "Rus": ""
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The decoration on this table is complex."
+      "Eng": "The decoration on this table is complex.",
+      "Rus": ""
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The owners seem to have decorated this table as a group."
+      "Eng": "The owners seem to have decorated this table as a group.",
+      "Rus": ""
     }
   }
 ]
