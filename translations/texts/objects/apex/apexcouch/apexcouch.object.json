@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A very unattractive piece of furniture."
+      "Eng": "A very unattractive piece of furniture.",
+      "Rus": "Очень непривлекательная мебель."
     }
   },
   {
@@ -18,40 +19,51 @@
       ]
     },
     "Texts": {
-      "Eng": "An abhorrent piece of fabric covers this chair."
+      "Eng": "An abhorrent piece of fabric covers this chair.",
+      "Rus": "Отвратительный кусок ткани покрывает это кресло."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Другая уродливая мебель навязанная наивным."
+    ],
     "Files": {
       "objects/apex/apexcouch/apexcouch.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "Another ugly piece of furniture forced on the innocent."
+      "Eng": "Another ugly piece of furniture forced on the innocent.",
+      "Rus": "Другая уродливая мебель навязанная невинным."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Еще одна жертва  этого потрепанного принта в горошек.",
+      "Другая жертва этой обшарпанной обивки в горошек."
+    ],
     "Files": {
       "objects/apex/apexcouch/apexcouch.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Another victim of this tacky polka dot print."
+      "Eng": "Another victim of this tacky polka dot print.",
+      "Rus": "Еще жертва этой обшарпанной обивки в горошек."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Полагаю это подходит для того, чтобы сидеть, а не для того, чтобы смотреть."
+    ],
     "Files": {
       "objects/apex/apexcouch/apexcouch.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "I guess it's for sitting on and not for lookin' at."
+      "Eng": "I guess it's for sitting on and not for lookin' at.",
+      "Rus": "Думаю, это для сидения, а не для того, чтобы смотреть."
     }
   },
   {
@@ -62,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Many design principles ignored."
+      "Eng": "Many design principles ignored.",
+      "Rus": "Много дизайнерских принципов было проигнорировано."
     }
   },
   {
@@ -73,7 +86,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssmells old."
+      "Eng": "Ssmells old.",
+      "Rus": "Пахнет ссстарым."
     }
   },
   {
@@ -84,7 +98,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Standard Issue Couch"
+      "Eng": "Standard Issue Couch",
+      "Rus": "Диван стандартного образца."
     }
   },
   {
@@ -95,7 +110,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This chair sucks the life out of the room."
+      "Eng": "This chair sucks the life out of the room.",
+      "Rus": "Этот диван высасывает жизнь из комнаты."
     }
   }
 ]
