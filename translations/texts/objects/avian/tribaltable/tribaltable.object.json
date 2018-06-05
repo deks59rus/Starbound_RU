@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "После еды на стол нередко добавляют новые гравюры с помощью ножей и вилок."
+    ],
     "Files": {
       "objects/avian/tribaltable/tribaltable.object": [
         "/avianDescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "An interestingly carved table.",
-      "Rus": ""
+      "Rus": "Интересно изрезанный стол."
     }
   },
   {
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Carved Table",
-      "Rus": ""
+      "Rus": "Резной стол."
     }
   },
   {
@@ -68,7 +70,7 @@
     },
     "Texts": {
       "Eng": "Floran bessst timess sspent at dinner table.",
-      "Rus": ""
+      "Rus": "Флораны проводят лучшшие моменты жжизни  за обеденным сстолом."
     }
   },
   {
@@ -80,7 +82,7 @@
     },
     "Texts": {
       "Eng": "It looks like an entire family may have helped to decorate this table.",
-      "Rus": ""
+      "Rus": "Похоже, что вся семья помогла украсить этот стол."
     }
   },
   {
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "The decoration on this table is complex.",
-      "Rus": ""
+      "Rus": "Этот стол имеет сложный узор."
     }
   },
   {
