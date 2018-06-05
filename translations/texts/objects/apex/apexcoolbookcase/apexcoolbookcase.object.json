@@ -84,7 +84,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Возможно здесь можно чему-то научиться даже у Апексов."
+    ],
     "Files": {
       "objects/apex/apexcoolbookcase/apexcoolbookcase.object": [
         "/glitchDescription/glitchEmotedText"
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "Perhaps there is something to learn from the Apex.",
-      "Rus": ""
+      "Rus": "Возможно здесь есть чему поучиться у Апексов."
     }
   },
   {
