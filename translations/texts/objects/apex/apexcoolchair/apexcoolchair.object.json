@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An egg shaped chair. It's pretty cool I guess."
+      "Eng": "An egg shaped chair. It's pretty cool I guess.",
+      "Rus": "Яйцевидный стул. Я думаю, это довольно круто."
     }
   },
   {
@@ -83,14 +84,17 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот стул словно строка программного кода."
+    ],
     "Files": {
       "objects/apex/apexcoolchair/apexcoolchair.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This chair flows like script on a page."
+      "Eng": "This chair flows like script on a page.",
+      "Rus": "Этот стул словно скрипт на странице."
     }
   },
   {
