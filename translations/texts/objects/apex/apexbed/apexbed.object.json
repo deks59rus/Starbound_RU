@@ -12,7 +12,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Простая кровать, не имеет никакого реального обаяния.",
+      "Простая кровать. Пожалуй, ей недостает шарма."
+    ],
     "Files": {
       "objects/apex/apexbed/apexbed.object": [
         "/humanDescription"
@@ -20,7 +23,7 @@
     },
     "Texts": {
       "Eng": "A simple bed, lacks any real charm.",
-      "Rus": ""
+      "Rus": "Простая кровать. Пожалуй, ей недостает очарования."
     }
   },
   {
@@ -60,7 +63,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Очень неудобные постельные принадлежности. Не подходит для флорианских шкур"
+    ],
     "Files": {
       "objects/apex/apexbed/apexbed.object": [
         "/floranDescription"
@@ -68,7 +73,7 @@
     },
     "Texts": {
       "Eng": "Sssuch uncomfortable bedding. No match for Floran fursss.",
-      "Rus": ""
+      "Rus": "До чего же неудобная постель. Не подходит для флорианских шшшкур"
     }
   },
   {
