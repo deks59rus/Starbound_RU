@@ -96,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что за потрясающая машина!"
+    ],
     "Files": {
       "objects/apex/apexcoolcomputer/apexcoolcomputer.object": [
         "/glitchDescription/glitchEmotedText"
@@ -104,7 +106,7 @@
     },
     "Texts": {
       "Eng": "What a stunning machine.",
-      "Rus": ""
+      "Rus": "Какая потрясающая машина."
     }
   }
 ]
